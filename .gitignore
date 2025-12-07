@@ -1,0 +1,14 @@
+target
+coverage
+# IntelliJ files
+.idea
+*.iml
+.classpath
+.project
+.settings
+._.DS_Store
+.DS_Store
+.fseventsd
+yarn-error.log
+CHANGELOG.md
+comixed-plugin-language-python-*.zip
